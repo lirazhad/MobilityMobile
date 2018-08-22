@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standard_margin">8dp</dimen>
+    <dimen name="cardview_corner_radius">4dp</dimen>
+    <dimen name="standard_padding">8dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="text_size_min">10sp</dimen>
+    <dimen name="text_size_step">2sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+</resources>

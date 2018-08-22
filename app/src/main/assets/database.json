@@ -1,0 +1,29 @@
+{
+  "taxi_list": [
+    {
+      "station_name": "Castle",
+      "ic_id": "2131165297"
+    },
+    {
+      "station_name": "Shekem",
+      "ic_id": "2131165297"
+    },
+    {
+      "station_name": "Habima",
+      "ic_id": "2131165297"
+    },
+    {
+      "station_name": "Gordon",
+      "ic_id": "2131165297"
+    },
+    {
+      "station_name": "Azrieli",
+      "ic_id": "2131165297"
+    },
+    {
+      "station_name": "Hadera",
+      "ic_id": "2131165297"
+    }
+
+  ]
+}
